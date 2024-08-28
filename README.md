@@ -1,9 +1,13 @@
 # THYVIEW_MOVIE_RECOMMENDATION
 ------------------------------Objective and Scope of the Project-------------------------------------------------
-• Improving the Accuracy of the recommendation system. 
+• Improving the Accuracy of the recommendation system.
+
 • Improve the Quality of the movie Recommendation system. 
+
 • Improving Scalability, enhancing the user experience. 
+
 • The objective of this project is to provide accurate movie recommendations to users. 
+
 • The goal of the project is to improve the quality of movie recommendation system, such as 
 accuracy, quality and scalability of system than the pure approaches. 
 • To eradicate the overload of the data, recommendation system is used as information filtering 
